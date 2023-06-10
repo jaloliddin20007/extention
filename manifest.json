@@ -1,0 +1,9 @@
+{
+    "name": "Hazillar extensioni",
+    "version": "0.0.1",
+    "description": "Bu test uchun qilinayotgan extension",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html"
+    }
+}
